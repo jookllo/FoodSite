@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+
+		<link rel="stylesheet" href="style.css">
 		<style media="screen" type="text/css">
 
 		</style>
