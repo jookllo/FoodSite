@@ -1,4 +1,11 @@
 <div class="header">
+	<style media="screen" type="text/css">
+.navbar{
+	color: white;
+	background-color: black;
+	font-style: tahoma;
+}
+	</style>
 		<h1>Mamachakula</h1>
 		<div class="navbar">
 			<ul>

@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<style media="screen" type="text/css">
+
+		</style>
 		<title>Home</title>
 	</head>
 	<body>
