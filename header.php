@@ -1,7 +1,10 @@
 <div class="header">
-		<h1>Mamachakula</h1>
+	<style media="screen" type="text/css">
+
+	</style>
+		<h1 class="name">Mamachakula</h1>
 		<div class="navbar">
-			<ul>
+			<ul class="nav-list">
 				<li><a href="index.php">Home</a></li>
 				<li><a href="menu.php">Menu</a></li>
 				<li><a href="about.php">About</a></li>
