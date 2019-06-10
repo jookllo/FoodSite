@@ -7,6 +7,9 @@
 		<style media="screen" type="text/css">
 
 		</style>
+		<script src="style.js"type="text/javascript">
+
+		</script>
 		<title>Home</title>
 	</head>
 	<body>
