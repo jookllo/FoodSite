@@ -1,3 +1,8 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 body{
   min-height: 100%;
 background-image: url('half-of-an-avocado.jpg');
@@ -9,13 +14,15 @@ background-attachment: fixed;
 }
 
 .footer{
+  margin-top:100px;
   background-color: black;
-  padding-top: 5px;
-  margin-top: 30%;
-  margin-left: ;
+
+  margin-bottom: 0px;
+
 }
 
 .name{
+  padding-left: 5px;
   font-family: 'Shadows Into Light', cursive;
   border-bottom-style:  solid;
   width: 170px;
@@ -30,12 +37,12 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .navbar{
-  margin: 0;
-  padding-top: 5px;
+   padding-top: 10px;
+  text-align: center;
+ height:40px;
 	color: white;
 	background-color: black;
 	font-style: tahoma;
-  padding-bottom: 5px;
 }
 
 a{
@@ -49,16 +56,22 @@ a:hover{
   border-color: red;
 }
 
-.body{
+.bdy{
+
+	background-color: rgba(210,230,177, 0.75);
+}
+.homebody{
+ padding-top: 100px;
+  max-width: 1000px;
+  font-size: 25px;
+  font-family: 'Fresca', sans-serif;
+  margin: auto;
   padding: 10px;
   min-width: 300px;
-  margin-top: 100px;
-  background-color: #d8ecba;
-  width: 500px;
+  border-bottom-style: inset;
+  border-color: red;
 }
 
 .menubody{
-  padding: 5px;
-  margin: 10px;
 background-color:#d2e5b0;
 }

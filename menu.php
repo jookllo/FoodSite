@@ -29,6 +29,7 @@ padding-left: 10px;
     </style>
   </head>
   <body>
+    <div class="bdy">
     <?php include_once "header.php";?>
     <div >
     <div class="menubody">
@@ -75,8 +76,8 @@ padding-left: 10px;
             </tr>
           </table>
         </div>
-          <p>The meals on the menu when requested will cost the <strong>Same Price</strong> each day.</p>
         </div>
     <?php include_once "footer.php";?>
+</div>
   </body>
 </html>
