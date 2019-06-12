@@ -3,6 +3,7 @@
 
 	</style>
 		<h1 class="name">Mamachakula</h1>
+		<br>
 		<div class="navbar">
 			<ul class="nav-list">
 				<li><a href="index.php">Home</a></li>

@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+
     <title>Menu</title>
   </head>
   <body>
-    <?php include_once "header.php";?> 
+    <?php include_once "header.php";?>
     <div class="body">
          <h2>Band Play Saturdays</h2>
                 <p>The restaurant will sometimes call various bands to come play wiothin the establishment. This is usually done in the balcony of the restaurant.<br> Some artists perform with live bands in the afternoon which also allows for an interesting Sunday lunch with the family on behalf of us.</p>
@@ -24,9 +27,13 @@
                 <h3>Let us hear who you'd like us to call in to present in our Band Play Sunday's.</h3>
                 <input type="text" name="band">
                 <button type="button">Submit</button>
+<<<<<<< HEAD
                 </div>
               </div>  
+=======
+              </div>
+>>>>>>> 958e4eb94e95b7d9edf23808f962f7c35329ba12
             </body>
     <?php include_once "footer.php";?>
   </body>
-</html>  
+</html>
