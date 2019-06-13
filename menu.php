@@ -2,79 +2,137 @@
 <html>
   <head>
     <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fresca|Satisfy&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="style.css">
     <title>Menu</title>
     <style media="screen">
+
+.menu{
+  font-family: 'Fresca', sans-serif;
+  text-align: center;
+  display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+
+margin:auto;
+max-width: 700px;
+}
+.day {
+  font-size: 20px;
+  border-left-style: outset;
+border-right-style: inset;
+border-color: red;
+margin-top: 10px;
+font-family: 'Shadows Into Light', cursive;
+}
+.meal{
+border-bottom-style: inset;
+border-color: red;
+margin-right: 10px;
+
+  }
 .top{
-  border-right: inset;
-  border-right-color: red;
-}
-.topd{
-  border-right: inset;
-  border-left: inset;
-  border-color: red;
-}
-th{
+  font-size: 20px;
   font-family: 'Shadows Into Light', cursive;
+  border-bottom-style: inset;
+  border-color: red;
+  margin-right: 10px;
 
 }
-table{
-  padding-top: 5px;
-  background-color: #d2e6b1;
-}
-td{
-  padding-bottom: 10px;
-padding-left: 10px;
-}
+
     </style>
   </head>
   <body>
     <div class="bdy">
     <?php include_once "header.php";?>
     <div >
+      <br>
+      <br>
     <div class="menubody">
       <p>The restaurant offers a variation of meals to eat for customers ranging from meat based diets, vegeterian diets and also quick snacks to eat and enjoy. The people can choose what they want to eat and suggestions can be made in house.</p>
       <p>The special meals are also there for you to choose from and it's in the daily special meals. The people can order from the various items we provide:</p>
 
     </div>
-          <div class="table">
-          <table>
-            <tr class="tabl">
-                <th class="topd">DAY</th>
-                <th class="top">Breakfast</th>
-                <th class="top">Lunch</th>
-                <th class="top">Supper</th>
-            </tr>
-            <tr>
-              <th>Monday</th>
-              <td>Tea/Coffee<br>toast<br>eggs <br> sausage</td>
-              <td>Fried rice <br> chicken tika <br> chapati <br>salad</td>
-              <td>Spaghetti,meatballs </td>
-            </tr>
-            <br>
-            <tr>
-              <th>Tuesday</th>
-              <td>Tea/Coffee,<br>baked beans<br>pancakes <br> bacon</td>
-              <td>Pilau <br>cow peas <br> kales</td>
-              <td>Beef and rice </td>
-            </tr>
-            <tr>
-              <th>Wednesday</th>
-              <td>Tea/Coffee <br> grilled cheese sandwich <br> sausage</td>
-              <td>Ugali and Spinach</td>
-              <td>Baked potatoes <br> lamb soup and bread</td>
-            </tr>
-            <tr>
-              <th>Thursday</th>
-              <td>Tea/Coffee <br> arrow roots/sweet potatoes</td>
-              <td>Salad and any type of meat available</td>
-              <td>Rice/Ugali and chicken with Kale </td>
-            </tr>
-            <tr>
-              <th>Friday</th>
-              <td span="">Request Fridays</td>
-            </tr>
-          </table>
+
+<br>
+<br>
+    <div class="menu">
+    <div class="day">
+    Day
+    </div>
+    <div class="top">
+    Breakfast
+    </div>
+    <div class="top">
+    Lunch
+    </div>
+    <div class="top">
+    Supper
+    </div>
+    <div class="day">
+      moday
+    </div>
+    <div class="meal">
+    tea
+    </div>
+    <div class="meal">
+      lunch
+    </div>
+    <div class="meal">
+    diner
+    </div>
+    <div class="day">
+      Tuesday
+    </div>
+    <div class="meal">
+    Breakfast
+    </div>
+    <div class="meal">
+    lunch
+    </div>
+    <div class="meal">
+    dinner
+    </div>
+    <div class="day">
+    Wednesday
+    </div>
+    <div class="meal">
+    Breakfast
+    </div>
+
+    <div class="meal">
+      lunch
+    </div>
+    <div class="meal">
+      dinner
+    </div>
+    <div class="day">
+      thusrday
+    </div>
+    <div class="meal">
+    breakfast
+    </div>
+    <div class="meal">
+    lunch
+    </div>
+    <div class="meal">
+      dinner
+    </div>
+    <div class="day">
+    friday
+    </div>
+    <div class="meal">
+    breakfast
+    </div>
+    <div class="meal">
+      lunch
+    </div>
+    <div class="meal">
+    diner
+    </div>
+    </div>
+
+
         </div>
         </div>
     <?php include_once "footer.php";?>

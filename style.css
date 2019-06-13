@@ -3,22 +3,21 @@
   margin: 0;
   padding: 0;
 }
+
 body{
   min-height: 100%;
-background-image: url('half-of-an-avocado.jpg');
-color:black;
-background-position: fixed;
-background-size: cover;
-background-repeat: no-repeat;
-background-attachment: fixed;
+  background-image: url('half-of-an-avocado.jpg');
+  color:black;
+  background-position: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .footer{
   margin-top:100px;
   background-color: black;
-
   margin-bottom: 0px;
-
 }
 
 .name{
@@ -38,11 +37,11 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
 
 .navbar{
    padding-top: 10px;
-  text-align: center;
- height:40px;
-	color: white;
-	background-color: black;
-	font-style: tahoma;
+   text-align: center;
+   height:40px;
+   color: white;
+	 background-color: black;
+	 font-style: tahoma;
 }
 
 a{
@@ -57,11 +56,12 @@ a:hover{
 }
 
 .bdy{
-
+  min-height: 500px;
 	background-color: rgba(210,230,177, 0.75);
+  
 }
 .homebody{
- padding-top: 100px;
+  padding-top: 100px;
   max-width: 1000px;
   font-size: 25px;
   font-family: 'Fresca', sans-serif;
@@ -73,5 +73,8 @@ a:hover{
 }
 
 .menubody{
-background-color:#d2e5b0;
+  text-align: center;
+  margin:auto;
+  max-width: 700px;
+  background-color:#d2e5b0;
 }
