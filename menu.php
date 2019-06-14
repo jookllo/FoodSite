@@ -16,6 +16,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
 
 margin:auto;
 max-width: 700px;
+padding-bottom: 100px;
 }
 .day {
   font-size: 20px;
@@ -38,6 +39,14 @@ margin-right: 10px;
   border-color: red;
   margin-right: 10px;
 
+}
+
+
+.bot{
+
+  bottom: 0;
+position: fixed;
+width: 100%;
 }
 
     </style>
@@ -135,7 +144,11 @@ margin-right: 10px;
 
         </div>
         </div>
-    <?php include_once "footer.php";?>
+
+        <div class="bot">
+          <?php include_once "footer.php";?>
+        </div>
+
 </div>
   </body>
 </html>
