@@ -27,12 +27,12 @@
                 <h3>Let us hear who you'd like us to call in to present in our Band Play Sunday's.</h3>
                 <input type="text" name="band">
                 <button type="button">Submit</button>
-<<<<<<< HEAD
+
                 </div>
               </div>  
-=======
+
               </div>
->>>>>>> 958e4eb94e95b7d9edf23808f962f7c35329ba12
+
             </body>
     <?php include_once "footer.php";?>
   </body>

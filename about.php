@@ -15,7 +15,7 @@
 	</head>
 	<body>
 		<?php include_once "header.php";?>
-<<<<<<< HEAD
+
 		<div class="body">
 			<h2>Our Mission</h2>
 				<p>The restaurant that allows an all round entertainment spot for the whole family to enjoy and laugh toghether. we strive to provide the best service for the city of Nairobi.</p>
@@ -24,9 +24,9 @@
 			<h2>Our Goal</h2>
 				<p>Produce food grown in our own gardens to supply the whole of Kenya and its neighbours. This is to allow for quick supply to the restaurants and also speed up the rate of operations in our farms. With this we can provide food to all types of people.</p>
 		</div>
-=======
+
 <div class="bottom">
->>>>>>> 958e4eb94e95b7d9edf23808f962f7c35329ba12
+
 		<?php include_once "footer.php";?>
 
 		</div>
