@@ -4,12 +4,7 @@
 		<link rel="stylesheet" href="style.css">
 		<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
 <style media="screen">
-	.bottom{
-		width: 100%;
-		position: fixed;
-		margin-bottom: 0;
-		bottom: 0;
-	}
+	
 	.mission{
 		margin: auto;
 max-width: 700px;
@@ -21,6 +16,11 @@ text-align: center;
 		width: 200px;
 margin: auto;
 margin-top: 20px;
+	}
+	.bot{
+		bottom: 0;
+position: fixed;
+width: 100%;
 	}
 </style>
 		<title>Home</title>
@@ -40,7 +40,10 @@ margin-top: 20px;
 
 
 
+	<div class="bot">
 		<?php include_once "footer.php";?>
+	</div>
+
 
 	</div>
 	</body>
