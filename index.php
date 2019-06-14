@@ -9,6 +9,9 @@
 .text{
 	padding-top: 100px;
 }
+body{
+	height: 100%;
+}
 		</style>
 		<script src="style.js"type="text/javascript">
 

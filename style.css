@@ -15,7 +15,6 @@ body{
 }
 
 .footer{
-  margin-top:100px;
   background-color: black;
   margin-bottom: 0px;
 }
@@ -56,9 +55,9 @@ a:hover{
 }
 
 .bdy{
-  min-height: 500px;
+  min-height: 100%;
 	background-color: rgba(210,230,177, 0.75);
-  
+
 }
 .homebody{
   padding-top: 100px;
@@ -70,6 +69,7 @@ a:hover{
   min-width: 300px;
   border-bottom-style: inset;
   border-color: red;
+  margin-bottom: 100px;
 }
 
 .menubody{

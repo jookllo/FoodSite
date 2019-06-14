@@ -1,2 +1,4 @@
 var width= window.innerWidth;
-//document.write(width);
+var height= window.innerHeight;
+
+var body=document.getElementsByClassName('bdy').style.height=height;

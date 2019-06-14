@@ -10,13 +10,26 @@
 		margin-bottom: 0;
 		bottom: 0;
 	}
+	.mission{
+		margin: auto;
+max-width: 700px;
+text-align: center;
+	}
+	h2{
+		border-bottom-style: inset;
+		border-color: red;
+		width: 200px;
+margin: auto;
+margin-top: 20px;
+	}
 </style>
 		<title>Home</title>
 	</head>
 	<body>
+<div class="bdy">
 		<?php include_once "header.php";?>
 
-		<div class="body">
+		<div class="mission">
 			<h2>Our Mission</h2>
 				<p>The restaurant that allows an all round entertainment spot for the whole family to enjoy and laugh toghether. we strive to provide the best service for the city of Nairobi.</p>
 			<h2>Our Vision</h2>
@@ -30,5 +43,6 @@
 		<?php include_once "footer.php";?>
 
 		</div>
+	</div>
 	</body>
 </html>
