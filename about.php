@@ -41,8 +41,7 @@ margin-top: 20px;
 <div class="bottom">
 
 		<?php include_once "footer.php";?>
-
-		</div>
+	</div>
 	</div>
 	</body>
 </html>
