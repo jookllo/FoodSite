@@ -38,10 +38,10 @@ margin-top: 20px;
 				<p>Produce food grown in our own gardens to supply the whole of Kenya and its neighbours. This is to allow for quick supply to the restaurants and also speed up the rate of operations in our farms. With this we can provide food to all types of people.</p>
 		</div>
 
-<div class="bottom">
+
 
 		<?php include_once "footer.php";?>
-	</div>
+
 	</div>
 	</body>
 </html>
