@@ -153,29 +153,29 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Fresh Scallops &mdash; 500</h4>
+                                <h4>Fresh salad &mdash; 500</h4>
                                 <p>
-                                    Cauliflower pureé, cured jamon, lemon
+                                    Tomato,onion, cucumber and vinegar
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Crab congee &mdash; 400</h4>
+                                <h4>Fish soup &mdash; 400</h4>
                                 <p>
-                                    Served with light watercress
+                                    Served with sauce of your own choosing
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Cured salmon &mdash; 450</h4>
+                                <h4>Chicken salad &mdash; 450</h4>
                                 <p>
-                                    Endive, yoghurt, radish and cucumber
+                                    Chicken, yoghurt, radish and cucumber
                                 </p>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Pickled local fig &mdash; 600</h4>
+                                <h4>Pickled local avocado &mdash; 600</h4>
                                 <p>
-                                    Chorizo, tomato, saffron and peas
+                                    Chorizo, tomato, avocado and peas
                                 </p>
                             </div>
                         </div>
@@ -249,11 +249,11 @@
                             <div class="text-block">
                                 <h4>Smoky chocolate fondant &mdash; 705</h4>
                                 <p>
-                                    Goat's milk ice cream, berry compote
+                                   Camel's milk ice cream, berry compote
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>House made ice cream &mdash; 800</h4>
+                                <h4>House made milkshake &mdash; 800</h4>
                                 <p>
                                     Assorted varieties, changes daily - see staff
                                 </p>
@@ -261,9 +261,9 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Cheese platter &mdash; 620</h4>
+                                <h4>Ice Cream and biscuits &mdash; 620</h4>
                                 <p>
-                                    Assorted cheeses, changes daily - see staff
+                                    Vanilla, chocolate, strawberry and chocolate chip cookies as toppings
                                 </p>
                             </div>
                             <div class="text-block">
