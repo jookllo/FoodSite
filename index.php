@@ -220,7 +220,7 @@
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Salt and pepper calamari &mdash; 18</h4>
+                                <h4>Salt and pepper calamari &mdash; 1800</h4>
                                 <p>
                                     Rocket, lime, chipotle aioli
                                 </p>
