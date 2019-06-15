@@ -153,19 +153,19 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Fresh Scallops &mdash; 17</h4>
+                                <h4>Fresh Scallops &mdash; 500</h4>
                                 <p>
                                     Cauliflower pureé, cured jamon, lemon
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Crab congee &mdash; 18</h4>
+                                <h4>Crab congee &mdash; 400</h4>
                                 <p>
                                     Served with light watercress
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Cured salmon &mdash; 19,5</h4>
+                                <h4>Cured salmon &mdash; 450</h4>
                                 <p>
                                     Endive, yoghurt, radish and cucumber
                                 </p>
@@ -173,7 +173,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Pickled local fig &mdash; 18</h4>
+                                <h4>Pickled local fig &mdash; 600</h4>
                                 <p>
                                     Chorizo, tomato, saffron and peas
                                 </p>
@@ -194,19 +194,19 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Chicken liver parfait &mdash; 26,5</h4>
+                                <h4>Chicken liver parfait &mdash; 1200</h4>
                                 <p>
                                     Comichons, relish and truffle toast
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Lamb fillet &mdash; 27</h4>
+                                <h4>Lamb fillet &mdash; 2000</h4>
                                 <p>
                                     Char-grilled zucchini, chilli, salsa verde
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Croquetas &mdash; 27,5</h4>
+                                <h4>Croquetas &mdash; 2050</h4>
                                 <p>
                                     Iberico queso, leek and smoked saffron
                                 </p>
@@ -214,7 +214,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Milk Fed Veal &mdash; 32,5</h4>
+                                <h4>Milk Fed Veal &mdash; 2510</h4>
                                 <p>
                                     Preserved lemon and mustard with crushed potatoes
                                 </p>
@@ -241,19 +241,19 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Rhubarb crumble &mdash; 17</h4>
+                                <h4>Rhubarb crumble &mdash; 300</h4>
                                 <p>
                                     Vanilla bean custard, toffee
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Smoky chocolate fondant &mdash; 17,5</h4>
+                                <h4>Smoky chocolate fondant &mdash; 705</h4>
                                 <p>
                                     Goat's milk ice cream, berry compote
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>House made ice cream &mdash; 18</h4>
+                                <h4>House made ice cream &mdash; 800</h4>
                                 <p>
                                     Assorted varieties, changes daily - see staff
                                 </p>
@@ -261,13 +261,13 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="text-block">
-                                <h4>Cheese platter &mdash; 22</h4>
+                                <h4>Cheese platter &mdash; 620</h4>
                                 <p>
                                     Assorted cheeses, changes daily - see staff
                                 </p>
                             </div>
                             <div class="text-block">
-                                <h4>Crem Bruleé &mdash; 16,5</h4>
+                                <h4>Crem Bruleé &mdash; 650</h4>
                                 <p>
                                     Vanilla bean custard, hardened toffee coating
                                 </p>
